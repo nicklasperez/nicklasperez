@@ -1,5 +1,9 @@
+![MasterHead](https://i.pinimg.com/originals/6d/53/08/6d53086d2ac43cf4f71f2f88df6ea500.jpg)
+
 <h1 align="center">Hi 👋, I'm Nicklas Stæhr Pérez</h1>
 <h3 align="center">A passionate Multiplatform Application Developer from Málaga, Spain.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif">
 
 - 🌱 I’m currently learning **I'm learning the PHP framework Laravel, the Python framework Django, and the mobile app framework Ionic.**
 
