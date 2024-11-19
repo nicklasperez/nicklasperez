@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nicklasperez@gmail.com**
 
-- ⚡ Fun fact **I'm bilingual in Spanish & English, and have a good understanding of English & French.**
+- ⚡ Fun fact **I'm bilingual in Spanish & English, and have a good understanding of Danish & French.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
