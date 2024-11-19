@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I'm learning the PHP framework Laravel, the Python framework Django, and the mobile app framework Ionic.**
 
-- 💬 Ask me about **HTML & CSS, i'm a natural!**
+- 💬 Ask me about **HTML & CSS, I'm a natural!**
 
 - 📫 How to reach me **nicklasperez@gmail.com**
 
